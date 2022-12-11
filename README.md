@@ -10,3 +10,6 @@ This repository consist of rest api whose functionality is to complete payment, 
 
 ### Below is the ER Diagram for User
 ![ER diagram](https://user-images.githubusercontent.com/86347266/206906474-2035127a-38f9-42d7-ae78-34d41f3c4008.jpeg)
+
+
+The live project can be found [here](https://subtle-monstera-289bed.netlify.app/)
